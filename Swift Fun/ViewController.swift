@@ -3,7 +3,7 @@
 //  Swift Fun
 //
 //  Created by Steven Lerner on 2/20/18.
-//  Copyright © 2018 Steven Lerner. All rights reserved.
+//  Copyright © 2018 Steven Lerner. All rights reserved...
 //
 
 import UIKit
@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         
         buttonCount = buttonCount + 1
         
-        print(buttonCount)
+       
         
         if buttonCount >= 10 {
             view.backgroundColor = UIColor.blue
